@@ -6,3 +6,5 @@ build/
 target/
 .gradle/
 .kotlin/
+.idea/
+local.properties
