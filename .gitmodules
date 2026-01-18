@@ -1,0 +1,4 @@
+[submodule "vendor/dezucker"]
+	path = vendor/dezucker
+	url = git@github.com:CreativeMayhemLtd/dezucker.git
+	branch = development
